@@ -1,5 +1,7 @@
 # Klasyfikacja rodzajów jedzenia na podstawie zdjęć - porównanie klasyfikatorów
 
+[Link do repozytorium](https://github.com/adapiekarska/food-classification)
+
 ## Problem
 
 Celem projektu jest wytrenowanie i porównanie klasyfikatorów do celu niebinarnej klasyfikacji obrazów (multi-class).
